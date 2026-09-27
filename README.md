@@ -37,12 +37,6 @@
 
 ---
 
-### 👑 The Ultimate Aura Holder
-
-*(ASCII-арт Гигачада доступен в полной версии README в исходном блоке кодов выше)*
-
----
-
 ### 💻 Installation & Run
 
 ```bash
