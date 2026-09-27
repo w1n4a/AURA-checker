@@ -41,6 +41,6 @@
 
 ```bash
 git clone https://github.com/w1n4a/AURA-checker/
-cd AURA-checker
+cd AURA-checker/src
 ./main
 ```
